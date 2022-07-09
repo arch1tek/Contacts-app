@@ -1,4 +1,4 @@
-# AdvancedPhonebookSystem
+# Contacts App
 Aim : To consolidate concepts of DSA, especially Trie, including implementing Terminal based GUI. 
 
 ## Motivation :
